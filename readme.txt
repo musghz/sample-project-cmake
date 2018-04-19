@@ -13,4 +13,5 @@ Steps to compile and run this project:
 -After a successful build, run the executable:
   $ ./gaussianRandomV03cCpp
 -Data for the gaussRand() and rand() functions will be printed to the terminal.
--The default browser will launch and histograms based on these data will be displayed.
+-Histograms based on these data will be stored in an html file.
+-The html file will automatically launch in the default web browser.
